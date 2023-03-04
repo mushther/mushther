@@ -15,7 +15,7 @@ A passionate  Front-End web developer from India
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1Y5zCHEVq8jYXvszYZY-HwaIwCzxPFFzl/view?usp=sharing">Resume</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1XnYSV5pnFH8VF8DubCd_3iIslWvPDF71/view">Resume</a><br><br>
  📫  Know more about me <a href="https://mushther.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/mushther">My Github Repositories</a><br><br>
