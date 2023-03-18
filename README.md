@@ -4,7 +4,7 @@ Hi 👋, I am Mushther Hussain.
 </h2>
 <hr>
 <h2 align="center">
-A passionate Front-End web developer from India
+A passionate Front-End Web developer from India
 </h2>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Mushther+Hussain.;I+am+a+Front-End+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
