@@ -79,7 +79,7 @@ A passionate Front-End Web developer from India
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
 </div>
-
+<!--
 ### <h2 align="center">&#127894; My Projects</h2>
 
 
@@ -126,7 +126,7 @@ A passionate Front-End Web developer from India
     <td>https://react-tasktracker-gmz.netlify.app/</td> 
     <td>React-Props-UseEffect-HTML-CSS-JavaScript</td>
 </tr> -->
-
+<!--
 <tr>
     <td align=center>5.</td>
     <td>React-Random-User-App-Project</td>
@@ -238,3 +238,4 @@ A passionate Front-End Web developer from India
 <td>Function-if-else-querySelector-localStorage-Events</td>
 </tr>
 </table>
+-->
