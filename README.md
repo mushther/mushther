@@ -19,7 +19,7 @@ A passionate Front-End Web developer from India
  📫  Know more about me <a href="https://mushther.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/mushther">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
+ 💬 Ask me about HTML, CSS, , JavaScript, React, Node.js <br><br>
  ⚡ How to reach me mushther2121999@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
