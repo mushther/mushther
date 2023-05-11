@@ -9,7 +9,6 @@ A passionate Front-End Web developer from India
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Mushther+Hussain.;I+am+a+Front-End+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
- <img src='https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966' alt='porfile'/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
