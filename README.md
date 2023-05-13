@@ -25,6 +25,8 @@ A passionate Front-End Web developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
+ 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushther-h-37a561132-/)
 <a href="https://www.linkedin.com/in/mushther-h-37a561132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
 </p>
 <br />
