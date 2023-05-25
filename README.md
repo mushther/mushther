@@ -1,7 +1,7 @@
 <div>
 <h2 align="center">
 Hi 👋, I am Mushther Hussain. 
-</h2>
+</h2> 
 <hr>
 <h2 align="center">
 A passionate Front-End Web developer from India
